@@ -1,0 +1,78 @@
+{
+  "email": "jirichard2007@gmail.com",
+  "links": [
+    {
+      "url": "https://www.linkedin.com/in/richard-ji-10b188287/",
+      "title": "LinkedIn",
+      "icon": "LinkedInIcon"
+    },
+    {
+      "url": "https://github.com/RJi26",
+      "title": "GitHub",
+      "icon": "GithubIcon"
+    }
+  ],
+  "cv": {
+    "file": "NA.png",
+    "title": "Download CV",
+    "label": "CV"
+  },
+  "description": [
+    "Enthusiast in AI and media, greatly inspired by the art of storytelling. I have a profound appreciation for music, light novels, and animated films.",
+    "From Australia, based in Canberra."
+  ],
+  "subtitles": ["he/him"],
+  "skills": [
+    ["Computer Vision", "Strategic thinking", "Cybersecurity"],
+    ["Linux", "Ubuntu", "Mac"],
+    [
+      "JavaScript",
+      "CSS",
+      "HTML",
+      "Python",
+      "Vue",
+      "Torch",
+      "LaTEX",
+      "Jupyter",
+      "Anaconda"
+    ],
+    ["Google Colab", "Paperspace", "VScode"]
+  ],
+  "experiences": [
+    {
+      "position": "International Baccalaureate Student",
+      "company": "College Based in Canberra",
+      "time": "* current"
+    },
+    {
+      "position": "IT Competition Region Champion",
+      "company": "YICTE",
+      "time": "2023"
+    },
+    {
+      "position": "Cybersecurity Division Champion and National 3rd",
+      "company": "Lockheed Martin",
+      "time": "2023"
+    },
+    {
+      "position": "2x Cybersecurity competition finalist",
+      "company": "Cybertaipan",
+      "time": "2022 - 2023"
+    },
+    {
+      "position": "High School Diploma",
+      "company": "School based in Canberra"
+    }
+  ],
+  "languages": {
+    "fluent": [
+      ["en-AU", "English"]
+    ],
+    "intermediate": [["zh-CN", "Mandarin"]],
+    "learning": [
+      ["ja-JP", "Japanese"],
+      ["fr-FR", "French"]
+    ]
+  },
+  "busy": ["Rewatching Koe No Katachi", "Practicing Katawaredoki", "Minding Sugar Levels", "#糖分"]
+}
