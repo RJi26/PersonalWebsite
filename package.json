@@ -1,4 +1,5 @@
 {
+  "homepage": "https://richard-ji.com",
   "name": "iuri.is",
   "version": "1.0.0",
   "private": true,
@@ -6,8 +7,9 @@
     "start": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
+    "predeploy": "npm run build",
     "postbuild": "cp public/CNAME dist/CNAME",
-    "deploy": "sh deploy.sh"
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@duskmoon/vue3-typed-js": "0.0.4",
