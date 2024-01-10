@@ -9,7 +9,7 @@
     "lint": "vue-cli-service lint",
     "predeploy": "npm run build",
     "postbuild": "cp public/CNAME dist/CNAME",
-    "deploy": "gh-pages -d build"
+    "deploy": "sh deploy.sh"
   },
   "dependencies": {
     "@duskmoon/vue3-typed-js": "0.0.4",
