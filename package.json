@@ -6,6 +6,7 @@
     "start": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
+    "postbuild": "cp public/CNAME dist/CNAME",
     "deploy": "sh deploy.sh"
   },
   "dependencies": {
